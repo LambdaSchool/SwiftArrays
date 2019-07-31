@@ -6,7 +6,7 @@
 
 
 /*:
- Remove the second element in your array and print it out to make sure the element was removed properly.
+ Remove the second element in your array and print the new second element to make sure it was removed properly.
  */
 
 
