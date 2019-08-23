@@ -2,22 +2,23 @@
 
 This project will help you practice the skills and concepts you learned related to arrays in Swift. 
 
-This project is all done in playgrounds. Follow the instructions below:
+### Non-Mac Users:
 
-### Download the Playground
+This assignment is broken up into smaller repl.it pages. Please go to and complete all of the assignments at the links below:
 
-1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/SwiftArrays/archive/master.zip). 
+1. https://repl.it/student/submissions/7599291
+2. https://repl.it/student/submissions/7599348
+3. https://repl.it/student/submissions/7599436
+
+### Mac Users:
+
+1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/SwiftArrays/archive/master.zip).
 2. Unzip the downloaded file.
-3. Open the included SwiftArrays.playground file using Xcode
+3. Open the included SwiftArrays.playground file using Xcode if you are on a Mac. The playground has the instructions for the assignment in it.
 
-### Do the Exercises
+This playground consists of multiple pages. You can see all the pages by choosing View -> Navigators -> Show Navigators in the View menu in Xcode. The playground has
 
-This project consists of multiple pages. You can see all the pages by choosing View->Navigators->Show Navigators in the View menu in Xcode.
-
-1. Complete all the exercises on the first page.
+1. Complete all the excercises on the first page.
 2. Go to the next page by clicking the "Next" link at the bottom of the playground, or by selecting it in the files navigator on the left side.
 3. Repeat until you've completed all pages in the playground.
-
-### Submit
-
-Zip up the SwiftArrays.playground file after you've finished all the exercises. Submit the zipped playground file to your project manager (PM).
+4. Submit your finished work after you've completed all the excercises.
